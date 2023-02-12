@@ -1,0 +1,38 @@
+body {
+  color: white;
+  background-color: #272b33;
+}
+.App {
+  text-align: center;
+  background-color: #272b33;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 3rem;
+}
+
+.personajes {
+  padding: 2rem;
+}
+
+.paginate {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #3c3e44;
+  align-items: center;
+  border-radius: 20px;
+  height: 80px;
+  color: var(--green);
+  font-size: 24px;
+  list-style: none;
+}
+
+.label-paginate {
+  cursor: pointer;
+}
+
+.page-paginate {
+  cursor: pointer;
+}

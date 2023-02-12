@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+body {
+  font-family: "Righteous", cursive;
+}
+
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff;
+  --green: #69bb66;
+  --primary: #272b33;
+}
+https://reqres.in/
